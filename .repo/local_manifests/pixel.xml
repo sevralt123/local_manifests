@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/oneplus/fajita" remote="github" name="sevralt/device_oneplus_fajita" revision="ten" />
+  <project path="device/oneplus/sdm845-common" remote="github" name="sevralt/device_oneplus_sdm845-common" revision="ten" />
+  <project path="kernel/oneplus/sdm845" remote="github" name="AOSiP-Devices/kernel_oneplus_sdm845" revision="release_Q_custom" />
+  <project path="vendor/oneplus" remote="github" name="AOSiP-Devices/vendor_oneplus" revision="ten" />
+  <project path="device/oneplus/common" remote="github" name="sevralt/device_oneplus_common" revision="ten" />
+  <project path="vendor/oneplus/camera" remote="github" name="yashsonawane/vendor_oneplus_camera" revision="ten" />
+  <project path="packages/apps/PixelLiveWallpaper" remote="pixel-gitlab" name="packages_apps_PixelLiveWallpaper" revision="ten" />
+  <project path="vendor/nxp/opensource/interfaces/nfc" remote="github" name="LineageOS/android_vendor_nxp_interfaces_opensource_nfc" revision="lineage-17.1" />
+  <project path="vendor/nxp/opensource/commonsys/external/libnfc-nci" remote="github" name="LineageOS/android_vendor_nxp_opensource_external_libnfc-nci" revision="lineage-17.1" />
+  <project path="vendor/nxp/opensource/commonsys/frameworks" remote="github" name="LineageOS/android_vendor_nxp_opensource_frameworks" revision="lineage-17.1" />
+  <project path="vendor/nxp/opensource/commonsys/packages/apps/Nfc" remote="github" name="LineageOS/android_vendor_nxp_opensource_packages_apps_Nfc" revision="lineage-17.1" />
+  <project path="vendor/nxp/opensource/sn100x/halimpl" remote="github" name="LineageOS/android_vendor_nxp_opensource_halimpl" revision="lineage-17.1-sn100x" />
+  <project path="vendor/nxp/opensource/sn100x/hidlimpl" remote="github" name="LineageOS/android_vendor_nxp_opensource_hidlimpl" revision="lineage-17.1-sn100x" />
+</manifest>
